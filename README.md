@@ -44,7 +44,7 @@ I am utilizing PySpark and Pandas for ETL process then using RDS as well as S3 v
 
 # Summary
 
-As we can see from the percentage of <strong>5-star reviews</strong>, there is a insignificant difference between Vine and Non Vine 5 star reviews as <strong>.35%</strong>. Therefore, I would conclude that there is no obvious positive bias for revies in the Vine program. 
+As we can see from the percentage of <strong>5-star reviews</strong>, there is an insignificant difference between Vine and Non Vine 5 star reviews as <strong>.35%</strong>. Therefore, I would conclude that there is no obvious positive bias for revies in the Vine program. 
 In order to have better idea on biasness, one can create a Hypothesis Testing and see there is any difference between mean of sampling and the population to provide more evidence and reject or fail to reject the Hypothesis. In addition to this, analyzing the other datasets available on Amazon Review Datasets and compare <strong>1-star</strong> reviews as well as <strong>5-star</strong> reviews  would be helpful to discover any biasness.
 
 
